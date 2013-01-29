@@ -74,6 +74,7 @@
   if has("gui_running")
     set guifont=Menlo:h12
     set background=dark
+    set transparency=12
 
     " a: visual-mode autoselect (takes over the OS selection process)
     set guioptions+=a
